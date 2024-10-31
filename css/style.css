@@ -1,0 +1,52 @@
+body{
+	background-color: lightgray;
+}
+	h1{
+	text-align: center;
+	border: double black 5px;
+	background: royalblue;
+	padding: 30px;
+	margin: 10px;
+}
+h2{
+	text-align: center;
+	font-size: 25px;
+
+	border: solid black 5px;
+	background: red;
+	padding: 50px;
+	margin: 50px;
+}
+p{
+	width: 200px;
+	border: dotted black 2px;
+	background: lightyellow;
+	padding: 10px;
+	margin: 20px;
+}
+img{
+	border: dashed black 5px;
+	background: navajowhite;
+	padding: 50px;
+	margin: 40px;
+}
+h3{
+	border:dashed black 5px;
+	background: rosybrown;
+	padding: 20px;
+	margin: 20px;
+}
+span {	
+            color: green;
+            font-size: 40px;
+            font-weight: bold;
+        }
+.map{
+	width: 100%;
+	height: 600px;
+	border: 0;
+}   
+.video{
+	width: 560px;
+	height: 315px;
+}     
